@@ -13,3 +13,6 @@ User's Guideline:
 5. also pate the Fotmob matchId below
 6. then download the xT_Grid.csv and teams_name_and_id.csv files from this repository and put those file paths where instructed
 7. then following the reamining instructions explained in the notebook and runnuing the remaining cells will give you the output Post Match Reports and other dashboards
+
+
+For using the code in the Google Colab, follow this video tutorial: (https://drive.google.com/file/d/14U0RepraIys8U_R4jXXa4yHZnv57mb9H/view?usp=sharing)
