@@ -16,6 +16,7 @@ User's Guideline:
 
 
 For using the code in the Google Colab, follow this video tutorial: (https://drive.google.com/file/d/14U0RepraIys8U_R4jXXa4yHZnv57mb9H/view?usp=sharing)
+
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 
